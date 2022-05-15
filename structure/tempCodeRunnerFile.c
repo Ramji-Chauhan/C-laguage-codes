@@ -1,0 +1,1 @@
+printf("%s\n%d\n%c\n%.2f\n",first.Name,first.Student_Id,first.Section,first.Percentage);
